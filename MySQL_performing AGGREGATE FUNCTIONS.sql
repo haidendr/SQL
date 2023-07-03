@@ -1,4 +1,4 @@
-/*--By Diane Haiden*--/
+/*--By D.Haiden*--/
 # performing aggregate functions in MySQL
 
 #show top 6 data
