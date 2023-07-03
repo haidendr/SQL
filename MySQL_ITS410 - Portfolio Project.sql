@@ -1,4 +1,4 @@
-/*--By Diane Haiden*--/
+/*--By D.Haiden*--/
 /*--#1 Write a SELECT statement that returns certain column names and data from the Products table--*/
 /*--Calculate the discount amount. discount_amount = list_price * discount_percent--*/
 /*--Calcualte the discount price. discount_price = list_price - discount_amount--*/
