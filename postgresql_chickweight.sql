@@ -1,4 +1,4 @@
---By Diane Haiden*--
+--By D.Haiden*--
 --Performing aggregate functions and other summary statistics in PostgreSQL
 
 --show top 6
