@@ -65,12 +65,6 @@ Dataset source: [Kaggle – US Public Pensions Data (2001–2016)](https://www.k
 * Pension funding and performance metrics
 * Python integration with SQL (pandas + SQLAlchemy)
 
-## Future Work
-
-* Add visualizations to highlight funding and investment trends
-* Develop predictive models for funding ratio or contribution compliance
-* Extend analysis to include plan demographics or benefit structures
-
 ## How to Run
 
 1. Clone this repository
