@@ -1,5 +1,4 @@
 # 🩺 Diabetes Risk Adjustment Analysis
-By: D.Haiden
 
 ## 📘 Overview
 This project provides a strategic analysis of diabetes-related health data to support better care coordination, accurate risk documentation, and informed decision-making. It helps healthcare organizations identify patterns in patient health, improve clinical outcomes, and optimize reimbursement strategies.
